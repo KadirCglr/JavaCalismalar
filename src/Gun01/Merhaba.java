@@ -1,13 +1,15 @@
 package Gun01;
 
 public class Merhaba {
-    public static void main(String[] args) {
-        System.out.println("merhaba");
+    public static void main(String[] args)
+    {  // Başla  -> satırın başında // yorum satırı kendine notlar
+       // sayı oku
+       // işlemler
 
-        for (int i = 0; i <10 ; i++) {
-            System.out.println("M");
-        }
+        System.out.println("Merhaba dünya");
+        System.out.println("Adımız Java");
 
-        System.out.println("M");
-    }
+
+
+    }  // Dur
 }
